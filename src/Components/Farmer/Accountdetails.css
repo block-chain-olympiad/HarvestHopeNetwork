@@ -18,19 +18,6 @@ body {
     align-items: center;
 }
 
-/* Apply the background image to a specific container */
-.account-page {
-    background-image: url('D:/blockchain_olympiad/baraj-react-app/src/Components/Farmer/images/Fa5.jpg');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position: center;
-    min-height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-
 .account-details-container {
     display: flex;
     justify-content: center;
